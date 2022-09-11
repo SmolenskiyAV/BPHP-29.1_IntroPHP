@@ -1,0 +1,3 @@
+https://github.com/netology-code/bphp-2-homeworks/tree/master/001-intro
+
+https://replit.com/@Smolenskiy/bphp-291#main.php
